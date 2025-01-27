@@ -71,8 +71,7 @@ project-management-system/
 3. Implement user authentication for multi-user access.  
 4. Support advanced filtering and reporting capabilities.  
 ---
-## **License**  
-This project is licensed under the MIT License.  
----  
 ## **Contact**  
 For any queries or contributions, feel free to contact:  
+Pratik Tushar Gade
+Contact: 9923418841
